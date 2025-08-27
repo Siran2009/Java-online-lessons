@@ -7,6 +7,7 @@ public class Calculator {
         String input = scanner.nextLine();
         String result = calc(input);
         System.out.println(result);
+
     }
     public static String calc(String input) {
 
